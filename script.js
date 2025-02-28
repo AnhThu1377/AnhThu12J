@@ -5,7 +5,7 @@ funtion login()
   if (a=="abc" && == "123")
   {
     window.open("home.html")
-    document.getElementById(compiler).style.display="b"
+    document.getElementById(compiler).style.display="block"
   }
   else
     document.write("không hợp lệ")
