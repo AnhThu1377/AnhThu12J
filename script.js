@@ -2,7 +2,7 @@ funtion login()
 {
   let a= username.value
   let b= Password.value
-  if (a=="abc" && == "123")
+  if (a=="AnhThu1377" && == "anhthu13072007")
   {
     window.open("home.html")
     document.getElementById(compiler).style.display="block"
