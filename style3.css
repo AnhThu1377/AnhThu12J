@@ -14,7 +14,7 @@
 }
 
 /* Navbar links */
-.topnav a {
+.noidung {
   float: left;
   display: block;
   color: # F08080;
@@ -24,11 +24,11 @@
 }
 
 /* Links - change color on hover */
-.topnav a:hover {
+.noidung:hover {
   background-color: # FFC1C1;
   color: black;
 }
-.footer {
+.hihi {
   background-color: #F1F1F1;
   text-align: center;
   padding: 10px;
