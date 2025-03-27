@@ -3,17 +3,14 @@
   height: 100%;
 }
 .header {
-  background-color: # FF6A6A;
+  background-color: #F1F1F1;
   text-align: center;
   padding: 20px;
-  font-size: 10%
 }
 /* The navbar container */
 .topnav {
   overflow: hidden;
   background-color: #333;
-  padding: 20px
-  font-size:40%
 }
 
 /* Navbar links */
@@ -22,9 +19,8 @@
   display: block;
   color: #f2f2f2;
   text-align: center;
-  padding: 20px 20px;
+  padding: 14px 16px;
   text-decoration: none;
-  font-size: 40%
 }
 
 /* Links - change color on hover */
@@ -35,19 +31,19 @@
 .footer {
   background-color: #F1F1F1;
   text-align: center;
-  padding: 20px;
+  padding: 10px;
 }
 .content
 {
   float: left;
-  padding: 20px;
+  padding: 10px;
 }
 .content.left {
-  width: 100%;
+  width: 30%;
 }
 
 .content.right {
-  width: 100%;
+  width: 70%;
 }
 
 .row::after {
