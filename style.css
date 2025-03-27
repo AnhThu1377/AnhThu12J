@@ -1,11 +1,11 @@
-.phandau
+.header 
 {
   background-color: gray;
   color: red;
   text-align: center;
   padding: 20;
 }
-.trinhdon
+.topnav
 {
   float: left;
   display: block;
