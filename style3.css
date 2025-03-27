@@ -6,12 +6,14 @@
   background-color: # FF6A6A;
   text-align: center;
   padding: 20px;
+  font-size: 40%
 }
 /* The navbar container */
 .topnav {
   overflow: hidden;
   background-color: #333;
   padding: 20px
+  font-size:40%
 }
 
 /* Navbar links */
@@ -22,6 +24,7 @@
   text-align: center;
   padding: 20px 20px;
   text-decoration: none;
+  font-size: 40%
 }
 
 /* Links - change color on hover */
