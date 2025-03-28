@@ -10,8 +10,9 @@
 }
 /* The navbar container */
 .topnav {
+  color: white;
   overflow: hidden;
-  background-color: #333;
+  background-color: pink;
 }
 
 /* Navbar links */
